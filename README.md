@@ -1,7 +1,6 @@
 <h1 align="left">Evelyn dos Santos </h1>
 
 <h3 align="left">Hi there, welcome to my profile 👋</h3>
-![octocat-1660853713078](https://user-images.githubusercontent.com/66217438/185486787-3404934e-1c61-49d3-be26-6f2f6234f77f.png)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
